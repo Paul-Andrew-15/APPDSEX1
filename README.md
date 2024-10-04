@@ -1,6 +1,6 @@
 # EX-01 Implementation of Data Preprocessing and Data Analysis
 ### Aim:
-To implement Data analysis and data preprocessing using a dataset.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE: 08.09.2024**
+To implement Data analysis and data preprocessing using a dataset.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <br>
 
 ### Algorithm:
@@ -13,6 +13,10 @@ To implement Data analysis and data preprocessing using a dataset.&emsp;&emsp;&e
 <br>
 
 ### Program:
+```
+Developed by: Paul Andrew D
+Register no: 212221230075
+```
 ##### Importing required python libraries
 ```Python
 import pandas as pd
@@ -210,7 +214,6 @@ plt.show()
 </table>
 
 ### Result:
-Thus Data analysis and Data preprocessing implemeted using a dataset.
+Thus Data analysis and Data preprocessing are implemented using a dataset.
 <br>
 <br><br><br><br><br><br><br>
-**Developed By: ROHIT JAIN D - 212222230120**
